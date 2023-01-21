@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+}
+:root{
+    --sans-font: 'Open Sans', sans-serif;
+    --raleway-font: 'Raleway', sans-serif;
+    --primary-color: #08A6E4;
+    --primary-shadow: rgba(7, 172, 230, .16);
+    --redish-color: #FB3B64;
+    --green-color: #55DFB4;
+    --black-color: #000000;
+    --gray-color: #A5A5A5;
+    --light-gray-color: #F7F7F7;
+    --white-color: #FFFFFF;
+
+
+}
